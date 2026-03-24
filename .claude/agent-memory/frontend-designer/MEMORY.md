@@ -1,0 +1,1 @@
+- [project_svzoto_design_system.md](project_svzoto_design_system.md) - SVzoto brand colors, fonts, Tailwind config, header/footer patterns, and component conventions
