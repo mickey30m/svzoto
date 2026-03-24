@@ -7,7 +7,7 @@ type: project
 SVzoto is a static HTML website for a traffic control and event support company based in Assen, Netherlands.
 
 **Colors (Tailwind custom):** primary=#2f7cff, accent=#f97c20, navy=#1a1d2e, light=#f5f7fa
-**Fonts:** Syne (headings, font-heading), Inter (body, font-body) via Google Fonts
+**Fonts:** Plus Jakarta Sans (headings, font-heading), Inter (body, font-body) via Google Fonts
 **CSS:** Tailwind CDN + custom.css (scroll animations: fade-in, slide-left, slide-right; hero-gradient; service-card hover; cta-pulse; form focus styles)
 **JS:** js/main.js handles mobile menu, header scroll shadow, IntersectionObserver for scroll animations, counter animation
 
